@@ -1,0 +1,3051 @@
+.campagne-hyundai {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.campagne-hyundai .div {
+  background-color: var(--white);
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
+}
+
+.campagne-hyundai .overlap {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.campagne-hyundai .group {
+  height: 7.19vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+.campagne-hyundai .top-balk {
+  background-color: var(--white);
+  box-shadow: var(--shadow-a);
+  height: 7.19vw;
+  position: relative;
+}
+
+.campagne-hyundai .logo-hyundai {
+  height: 2.19vw !important;
+  left: 7.66vw !important;
+  position: absolute !important;
+  top: 2.5vw !important;
+  width: 16.04vw !important;
+}
+
+.campagne-hyundai .keurmerk {
+  background-image: url(../../../static/img/image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3.12vw;
+  left: 89.38vw;
+  position: absolute;
+  top: 2.03vw;
+  width: 2.71vw;
+}
+
+.campagne-hyundai .SECTION-header {
+  height: 51.41vw;
+  left: 7.6vw;
+  position: absolute;
+  top: 7.19vw;
+  width: 92.6vw;
+}
+
+.campagne-hyundai .overlap-group {
+  height: 51.41vw;
+  left: 0.05vw;
+  position: absolute;
+  top: 0;
+  width: 92.55vw;
+}
+
+.campagne-hyundai .groot-beeld-slider {
+  height: 51.41vw;
+  left: 39.74vw;
+  position: absolute;
+  top: 0;
+  width: 52.81vw;
+}
+
+.campagne-hyundai .overlap-group-2 {
+  background-image: url(../../../static/img/auto-beeld-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51.41vw;
+  position: relative;
+  width: 52.6vw;
+}
+
+.campagne-hyundai .tijdelijk-voor-maar {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 700;
+  left: 10.05vw;
+  letter-spacing: 0;
+  line-height: 2.66vw;
+  position: absolute;
+  top: 6.67vw;
+}
+
+.campagne-hyundai .ontdek-meer {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Medium", Helvetica;
+  font-size: 0.94vw;
+  font-weight: 500;
+  left: 10.05vw;
+  letter-spacing: 0.36vw;
+  line-height: normal;
+  position: absolute;
+  top: 44.95vw;
+}
+
+.campagne-hyundai .navigatie-slider {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 2.24vw;
+  left: 39.79vw;
+  position: absolute;
+  top: 44.95vw;
+}
+
+.campagne-hyundai .arrow-left {
+  height: 1.3vw;
+  margin-bottom: -0.09vw;
+  margin-left: -0.18vw;
+  margin-top: -0.09vw;
+  position: relative;
+  width: 1.3vw;
+}
+
+.campagne-hyundai .arrow-right {
+  height: 1.3vw;
+  margin-bottom: -0.09vw;
+  margin-right: -0.18vw;
+  margin-top: -0.09vw;
+  position: relative;
+  width: 1.3vw;
+}
+
+.campagne-hyundai .CTA-balk {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 0.62vw;
+  box-shadow: var(--shadow-a);
+  display: inline-flex;
+  gap: 9.43vw;
+  left: 0;
+  overflow: hidden;
+  padding: 1.09vw 1.25vw;
+  position: absolute;
+  top: 33.75vw;
+}
+
+.campagne-hyundai .private-lease-nu {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-blue);
+  border-radius: 0.36vw;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  overflow: hidden;
+  padding: 1.77vw 1.3vw;
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 1.41vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .img {
+  height: 0.68vw;
+  position: relative;
+  width: 1.25vw;
+}
+
+.campagne-hyundai .hoofd-titel-tekst {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.31vw;
+  left: 0;
+  position: absolute;
+  top: 6.04vw;
+}
+
+.campagne-hyundai .label {
+  align-items: center;
+  background-color: var(--light-grey);
+  border-radius: 1.64vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.37vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0.15vw 0.82vw;
+  position: relative;
+}
+
+.campagne-hyundai .nieuw {
+  color: var(--dark-grey);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 0.59vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.19vw;
+  margin-top: -0.04vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.campagne-hyundai .de-vernieuwde {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 4.27vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 4.69vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 38.23vw;
+}
+
+.campagne-hyundai .text-wrapper-2 {
+  color: var(--primary-blue);
+  font-family: var(--large-title-bold-font-family);
+  font-size: var(--large-title-bold-font-size);
+  font-style: var(--large-title-bold-font-style);
+  font-weight: var(--large-title-bold-font-weight);
+  letter-spacing: var(--large-title-bold-letter-spacing);
+  line-height: var(--large-title-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .profiteer-nu-van-een {
+  color: var(--black);
+  font-family: "Inter", Helvetica;
+  font-size: 1.25vw;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 1.88vw;
+  position: absolute;
+  top: 25.47vw;
+  width: 28.49vw;
+}
+
+.campagne-hyundai .span {
+  font-family: var(--body-medium-font-family);
+  font-size: var(--body-medium-font-size);
+  font-style: var(--body-medium-font-style);
+  font-weight: var(--body-medium-font-weight);
+  letter-spacing: var(--body-medium-letter-spacing);
+  line-height: var(--body-medium-line-height);
+}
+
+.campagne-hyundai .text-wrapper-3 {
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+}
+
+.campagne-hyundai .p {
+  color: var(--text-grey);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  left: 0.05vw;
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  position: absolute;
+  top: 46.56vw;
+  width: 29.95vw;
+}
+
+.campagne-hyundai .top-balk-2 {
+  background-color: var(--white);
+  box-shadow: var(--shadow-a);
+  height: 36.8vw;
+  position: relative;
+}
+
+.campagne-hyundai .logo-hyundai-1 {
+  height: 6.93vw !important;
+  left: 5.33vw !important;
+  position: absolute !important;
+  top: 15.73vw !important;
+  width: 50.67vw !important;
+}
+
+.campagne-hyundai .keurmerk-2 {
+  background-image: url(../../../static/img/image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10.67vw;
+  left: 85.33vw;
+  position: absolute;
+  top: 13.87vw;
+  width: 9.33vw;
+}
+
+.campagne-hyundai .SECTION-all {
+  background-color: var(--light-blue);
+  left: 0;
+  position: absolute;
+  width: 100vw;
+}
+
+.campagne-hyundai .overlap-group-3 {
+  left: 0;
+  position: absolute;
+}
+
+.campagne-hyundai .vrouw-blij-auto {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.campagne-hyundai .voordelen-blokken {
+  position: absolute;
+}
+
+.campagne-hyundai .voordeel {
+  align-items: flex-start;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .icons-lease {
+  position: relative;
+}
+
+.campagne-hyundai .rijden-in-een-nieuwe {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .voordeel-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .icons-lease-2 {
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-4 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+}
+
+.campagne-hyundai .voordeel-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .icons-lease-3 {
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-5 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+}
+
+.campagne-hyundai .voordeel-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .icons-lease-4 {
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-6 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+}
+
+.campagne-hyundai .voordeel-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .icons-lease-5 {
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-7 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  position: relative;
+}
+
+.campagne-hyundai .frame-2 {
+  align-items: flex-start;
+  flex-direction: column;
+  position: absolute;
+}
+
+.campagne-hyundai .titel-all-inclusive {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-8 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .text-wrapper-9 {
+  color: var(--primary-blue);
+  position: relative;
+}
+
+.campagne-hyundai .vast-maandbedrag {
+  color: var(--black);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  position: relative;
+}
+
+.campagne-hyundai .SECTION-uitvoeringen {
+  background-color: var(--light-blue);
+  height: 125.68vw;
+  left: 0;
+  position: absolute;
+  top: 195.83vw;
+  width: 100vw;
+}
+
+.campagne-hyundai .tabel-sectie {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 3.28vw;
+  left: 7.6vw;
+  position: relative;
+  top: 7.55vw;
+}
+
+.campagne-hyundai .text-wrapper-10 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.5vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 3.07vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .tabel {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.37vw;
+  position: relative;
+}
+
+.campagne-hyundai .functionaliteiten {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+}
+
+.campagne-hyundai .titel {
+  background-color: var(--primary-blue);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 10.95vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  overflow: hidden;
+  position: relative;
+  width: 28.78vw;
+}
+
+.campagne-hyundai .bill-montly {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 700;
+  left: 3.8vw;
+  letter-spacing: 0;
+  line-height: 2.66vw;
+  position: absolute;
+  top: 4.06vw;
+  width: 21.82vw;
+}
+
+.campagne-hyundai .onderdelen {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 83.79vw;
+  overflow: hidden;
+  position: relative;
+  width: 28.67vw;
+}
+
+.campagne-hyundai .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.06vw;
+  left: 1.35vw;
+  position: relative;
+  top: 2.76vw;
+}
+
+.campagne-hyundai .profile-groups {
+  color: var(--text-color-tabel);
+  font-family: var(--tabel-regular-font-family);
+  font-size: var(--tabel-regular-font-size);
+  font-style: var(--tabel-regular-font-style);
+  font-weight: var(--tabel-regular-font-weight);
+  letter-spacing: var(--tabel-regular-letter-spacing);
+  line-height: var(--tabel-regular-line-height);
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .separators {
+  height: 0.06vw;
+  position: relative;
+  width: 17.51vw;
+}
+
+.campagne-hyundai .text-wrapper-11 {
+  color: var(--text-color-tabel);
+  font-family: var(--tabel-regular-font-family);
+  font-size: var(--tabel-regular-font-size);
+  font-style: var(--tabel-regular-font-style);
+  font-weight: var(--tabel-regular-font-weight);
+  letter-spacing: var(--tabel-regular-letter-spacing);
+  line-height: var(--tabel-regular-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.36vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .titel-wrapper {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 10.84vw;
+  position: relative;
+  width: 10.79vw;
+}
+
+.campagne-hyundai .titel-2 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 700;
+  left: 1.82vw;
+  letter-spacing: 0;
+  line-height: 2.66vw;
+  position: absolute;
+  text-align: center;
+  top: 3.39vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .frame-wrapper {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 83.79vw;
+  position: relative;
+  width: 10.79vw;
+}
+
+.campagne-hyundai .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.01vw;
+  left: 1.2vw;
+  position: relative;
+  top: 2.6vw;
+}
+
+.campagne-hyundai .tabel-icons {
+  height: 1.44vw;
+  position: relative;
+  width: 1.44vw;
+}
+
+.campagne-hyundai .separators-2 {
+  height: 0.06vw;
+  position: relative;
+  width: 8.39vw;
+}
+
+.campagne-hyundai .separators-3 {
+  height: 0.06vw;
+  position: relative;
+  width: 8.45vw;
+}
+
+.campagne-hyundai .div-wrapper {
+  background-color: var(--primary-blue);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 10.84vw;
+  position: relative;
+  width: 10.79vw;
+}
+
+.campagne-hyundai .titel-3 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 400;
+  left: 0.89vw;
+  letter-spacing: 0;
+  line-height: 2.14vw;
+  position: absolute;
+  text-align: center;
+  top: 3.39vw;
+}
+
+.campagne-hyundai .text-wrapper-12 {
+  font-weight: 700;
+  line-height: 2.66vw;
+}
+
+.campagne-hyundai .text-wrapper-13 {
+  font-family: var(--tabel-regular-font-family);
+  font-size: var(--tabel-regular-font-size);
+  font-style: var(--tabel-regular-font-style);
+  font-weight: var(--tabel-regular-font-weight);
+  letter-spacing: var(--tabel-regular-letter-spacing);
+  line-height: var(--tabel-regular-line-height);
+}
+
+.campagne-hyundai .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.01vw;
+  left: 1.15vw;
+  position: relative;
+  top: 2.6vw;
+}
+
+.campagne-hyundai .titel-4 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 2.66vw;
+  position: absolute;
+  text-align: center;
+  top: 3.39vw;
+  width: 10.73vw;
+}
+
+.campagne-hyundai .n-line {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 10.84vw;
+  position: relative;
+  width: 10.86vw;
+}
+
+.campagne-hyundai .titel-5 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.14vw;
+  font-weight: 700;
+  left: 0.1vw;
+  letter-spacing: 0;
+  line-height: 2.66vw;
+  position: absolute;
+  text-align: center;
+  top: 3.39vw;
+  width: 10.73vw;
+}
+
+.campagne-hyundai .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.01vw;
+  left: 1.25vw;
+  position: relative;
+  top: 2.6vw;
+}
+
+.campagne-hyundai .SECTION-uitvoeringen-2 {
+  position: absolute;
+}
+
+.campagne-hyundai .overlap-2 {
+  height: 390.4vw;
+  position: relative;
+}
+
+.campagne-hyundai .rectangle {
+  background-color: var(--light-blue);
+  height: 390.4vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+.campagne-hyundai .tabel-sectie-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16.8vw;
+  left: 5.33vw;
+  position: absolute;
+  top: 16.27vw;
+}
+
+.campagne-hyundai .text-wrapper-14 {
+  color: var(--primary-blue);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  margin-top: -0.27vw;
+  position: relative;
+  text-align: center;
+  width: 89.33vw;
+}
+
+.campagne-hyundai .tabel-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.1vw;
+  position: relative;
+}
+
+.campagne-hyundai .functionaliteiten-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.1vw;
+  position: relative;
+}
+
+.campagne-hyundai .bill-montly-wrapper {
+  background-image: url(../../../static/img/rectangle.png);
+  background-size: 100% 100%;
+  height: 32.26vw;
+  position: relative;
+  width: 85.3vw;
+}
+
+.campagne-hyundai .bill-montly-2 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.35vw;
+  font-weight: 700;
+  left: 11.2vw;
+  letter-spacing: 0;
+  line-height: 7.89vw;
+  position: absolute;
+  top: 12.27vw;
+  width: 64.8vw;
+}
+
+.campagne-hyundai .img-wrapper {
+  background-image: url(../../../static/img/rectangle-1.png);
+  background-size: 100% 100%;
+  border: 0.15vw solid;
+  border-color: var(--text-grey);
+  height: 249.3vw;
+  position: relative;
+  width: 85.3vw;
+}
+
+.campagne-hyundai .frame-7 {
+  height: 234.4vw;
+  left: 4vw;
+  position: absolute;
+  top: 8.27vw;
+  width: 78.13vw;
+}
+
+.campagne-hyundai .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.09vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.campagne-hyundai .titel-6 {
+  height: 32.26vw;
+  position: relative;
+  width: 32.11vw;
+}
+
+.campagne-hyundai .overlap-group-4 {
+  height: 32.27vw;
+  position: relative;
+  width: 25.33vw;
+}
+
+.campagne-hyundai .base {
+  height: 32.27vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8.27vw;
+}
+
+.campagne-hyundai .titel-7 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.35vw;
+  font-weight: 700;
+  left: 5.33vw;
+  letter-spacing: 0;
+  line-height: 7.89vw;
+  position: absolute;
+  text-align: center;
+  top: 10.13vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .onderdelen-2 {
+  height: 249.3vw;
+  position: relative;
+  width: 32.11vw;
+}
+
+.campagne-hyundai .overlap-3 {
+  height: 249.33vw;
+  position: relative;
+  width: 28.8vw;
+}
+
+.campagne-hyundai .base-2 {
+  height: 249.33vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8.27vw;
+}
+
+.campagne-hyundai .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.99vw;
+  left: 3.47vw;
+  position: absolute;
+  top: 7.73vw;
+}
+
+.campagne-hyundai .tabel-icons-2 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -123.73vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-4 {
+  height: 0.27vw;
+  position: relative;
+  width: 4.59vw;
+}
+
+.campagne-hyundai .tabel-icons-3 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -113.11vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-5 {
+  height: 0.27vw;
+  position: relative;
+  width: 4.68vw;
+}
+
+.campagne-hyundai .tabel-icons-4 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -102.67vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-5 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -92.23vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-6 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -81.79vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-7 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -71.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-8 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -60.91vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-9 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -50.47vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-10 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -40.02vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-11 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -29.58vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-12 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -19.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-13 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  margin-top: -8.7vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .tabel-icons-14 {
+  height: 4.28vw;
+  margin-right: -1180.65vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .base-3 {
+  height: 32.27vw;
+  left: 1161.33vw;
+  position: absolute;
+  top: -82.67vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .titel-8 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.35vw;
+  font-weight: 400;
+  left: 2.67vw;
+  letter-spacing: 0;
+  line-height: 6.35vw;
+  position: absolute;
+  text-align: center;
+  top: 10.13vw;
+}
+
+.campagne-hyundai .text-wrapper-15 {
+  font-weight: 700;
+  line-height: 7.89vw;
+}
+
+.campagne-hyundai .text-wrapper-16 {
+  font-family: "Hyundai Sans Head Office-Regular", Helvetica;
+  font-size: 3.25vw;
+}
+
+.campagne-hyundai .base-4 {
+  height: 249.33vw;
+  left: 1161.33vw;
+  position: absolute;
+  top: -116vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .tabel-icons-15 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -123.73vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-6 {
+  height: 0.36vw;
+  margin-right: -1157.99vw;
+  margin-top: -116.46vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-16 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -113.11vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-7 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -105.84vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-17 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -102.67vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-8 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -95.4vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-18 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -92.23vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-9 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -84.95vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-19 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -81.79vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-10 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -74.51vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-20 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -71.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-11 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -64.07vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-21 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -60.91vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-12 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -53.63vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-22 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -50.47vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-13 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -43.19vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-23 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -40.02vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-14 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -32.75vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-24 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -29.58vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-15 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -22.31vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-25 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -19.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-16 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -11.87vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-26 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  margin-top: -8.7vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-17 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  margin-top: -1.43vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-27 {
+  height: 4.28vw;
+  margin-right: -1147.55vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-18 {
+  height: 0.27vw;
+  margin-right: -1157.99vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .base-5 {
+  height: 32.27vw;
+  left: 1128.27vw;
+  position: absolute;
+  top: -82.67vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .titel-9 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.35vw;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 7.89vw;
+  position: absolute;
+  text-align: center;
+  top: 10.13vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .base-6 {
+  height: 249.33vw;
+  left: 1128.27vw;
+  position: absolute;
+  top: -116vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .tabel-icons-28 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -123.73vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-19 {
+  height: 0.36vw;
+  margin-right: -1124.78vw;
+  margin-top: -116.46vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-29 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -113.11vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-20 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -105.84vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-30 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -102.67vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-21 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -95.4vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-31 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -92.23vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-22 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -84.95vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-32 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -81.79vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-23 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -74.51vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-33 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -71.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-24 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -64.07vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-34 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -60.91vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-25 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -53.63vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-35 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -50.47vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-26 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -43.19vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-36 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -40.02vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-27 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -32.75vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-37 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -29.58vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-28 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -22.31vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-38 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -19.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-29 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -11.87vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-39 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  margin-top: -8.7vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-30 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  margin-top: -1.43vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-40 {
+  height: 4.28vw;
+  margin-right: -1114.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-31 {
+  height: 0.27vw;
+  margin-right: -1124.78vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .base-7 {
+  height: 32.27vw;
+  left: 1094.93vw;
+  position: absolute;
+  top: -82.67vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .base-8 {
+  height: 249.33vw;
+  left: 1094.93vw;
+  position: absolute;
+  top: -116vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .tabel-icons-41 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -123.73vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-32 {
+  height: 0.36vw;
+  margin-right: -1091.57vw;
+  margin-top: -116.46vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-42 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -113.11vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-33 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -105.84vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-43 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -102.67vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-34 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -95.4vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-44 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -92.23vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-35 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -84.95vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-45 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -81.79vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-36 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -74.51vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-46 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -71.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-37 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -64.07vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-47 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -60.91vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-38 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -53.63vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-48 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -50.47vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-39 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -43.19vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-49 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -40.02vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-40 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -32.75vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-50 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -29.58vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-41 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -22.31vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-51 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -19.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-42 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -11.87vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-52 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  margin-top: -8.7vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-43 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  margin-top: -1.43vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-53 {
+  height: 4.28vw;
+  margin-right: -1081.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-44 {
+  height: 0.27vw;
+  margin-right: -1091.57vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .n-line-2 {
+  height: 32.26vw;
+  position: relative;
+  width: 32.3vw;
+}
+
+.campagne-hyundai .base-9 {
+  height: 32.27vw;
+  left: 1061.87vw;
+  position: absolute;
+  top: -82.67vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .titel-10 {
+  color: var(--text-color-tabel);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.35vw;
+  font-weight: 700;
+  left: 0.27vw;
+  letter-spacing: 0;
+  line-height: 7.89vw;
+  position: absolute;
+  text-align: center;
+  top: 10.13vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .base-10 {
+  height: 249.33vw;
+  left: 1061.87vw;
+  position: absolute;
+  top: -116vw;
+  width: 32vw;
+}
+
+.campagne-hyundai .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.99vw;
+  left: 3.73vw;
+  position: absolute;
+  top: 7.73vw;
+}
+
+.campagne-hyundai .tabel-icons-54 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -123.73vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-45 {
+  height: 0.36vw;
+  margin-right: -1058.05vw;
+  margin-top: -116.46vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-55 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -113.11vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-46 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -105.84vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-56 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -102.67vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-47 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -95.4vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-57 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -92.23vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-48 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -84.95vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-58 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -81.79vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-49 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -74.51vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-59 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -71.35vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-50 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -64.07vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-60 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -60.91vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-51 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -53.63vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-61 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -50.47vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-52 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -43.19vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-62 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -40.02vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-53 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -32.75vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-63 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -29.58vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-54 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -22.31vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-64 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -19.14vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-55 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -11.87vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-65 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  margin-top: -8.7vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-56 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  margin-top: -1.43vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .tabel-icons-66 {
+  height: 4.28vw;
+  margin-right: -1047.61vw;
+  position: relative;
+  width: 4.28vw;
+}
+
+.campagne-hyundai .separators-57 {
+  height: 0.27vw;
+  margin-right: -1058.05vw;
+  position: relative;
+  width: 25.15vw;
+}
+
+.campagne-hyundai .button-2 {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-blue);
+  border-radius: 1.87vw;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7.47vw;
+  overflow: hidden;
+  padding: 9.07vw 6.67vw;
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-17 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 7.2vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.53vw;
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .arrow {
+  height: 3.47vw;
+  position: relative;
+  width: 6.4vw;
+}
+
+.campagne-hyundai .arrow-wrapper {
+  background-color: #002e6b;
+  border-radius: 5.33vw;
+  height: 10.67vw;
+  left: 67.47vw;
+  position: absolute;
+  top: 311.73vw;
+  width: 10.67vw;
+}
+
+.campagne-hyundai .arrow-2 {
+  height: 3.73vw;
+  left: 3.2vw;
+  position: absolute;
+  top: 3.47vw;
+  width: 3.73vw;
+}
+
+.campagne-hyundai .group-2 {
+  background-color: #002e6b;
+  border-radius: 5.33vw;
+  height: 10.67vw;
+  left: 53.07vw;
+  position: absolute;
+  top: 311.73vw;
+  width: 10.67vw;
+}
+
+.campagne-hyundai .arrow-3 {
+  height: 3.73vw;
+  left: 3.73vw;
+  position: absolute;
+  top: 3.47vw;
+  width: 3.73vw;
+}
+
+.campagne-hyundai .slider-images {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 2.86vw;
+  left: 0;
+  position: absolute;
+  top: 9.64vw;
+}
+
+.campagne-hyundai .hand-mobiel {
+  height: 32.97vw;
+  object-fit: cover;
+  position: relative;
+  width: 26.35vw;
+}
+
+.campagne-hyundai .img-2 {
+  height: 32.97vw;
+  position: relative;
+  width: 26.35vw;
+}
+
+.campagne-hyundai .binnen-auto {
+  height: 32.97vw;
+  object-fit: cover;
+  position: relative;
+  width: 6.77vw;
+}
+
+.campagne-hyundai .slider-indicator {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 0.83vw;
+  left: 38.59vw;
+  position: absolute;
+  top: 51.82vw;
+}
+
+.campagne-hyundai .element {
+  background-color: var(--primary-blue);
+  border-radius: 2.08vw;
+  height: 0.42vw;
+  position: relative;
+  width: 3.28vw;
+}
+
+.campagne-hyundai .element-2 {
+  background-color: var(--text-grey);
+  border-radius: 2.08vw;
+  height: 0.42vw;
+  position: relative;
+  width: 1.35vw;
+}
+
+.campagne-hyundai .titel-frisse-kijk {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.25vw;
+  left: 21.51vw;
+  position: absolute;
+  top: 0;
+}
+
+.campagne-hyundai .text-wrapper-18 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 0.94vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.67vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .text-wrapper-19 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.5vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 3.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .SECTION-frisse-kijk {
+  position: absolute;
+}
+
+.campagne-hyundai .slider-images-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8.04vw;
+  height: 92.53vw;
+  left: 0;
+  position: absolute;
+  top: 54.13vw;
+  width: 320vw;
+}
+
+.campagne-hyundai .hand-mobiel-2 {
+  height: 92.56vw;
+  object-fit: cover;
+  position: relative;
+  width: 73.99vw;
+}
+
+.campagne-hyundai .binnen-auto-2 {
+  height: 92.56vw;
+  position: relative;
+  width: 17.97vw;
+}
+
+.campagne-hyundai .dashboard-auto {
+  height: 92.56vw;
+  margin-bottom: -90.55vw;
+  margin-right: -1204.37vw;
+  position: relative;
+  width: 73.99vw;
+}
+
+.campagne-hyundai .binnen-auto-3 {
+  height: 92.56vw;
+  margin-bottom: -90.55vw;
+  margin-right: -1286.4vw;
+  object-fit: cover;
+  position: relative;
+  width: 73.99vw;
+}
+
+.campagne-hyundai .titel-frisse-kijk-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3.51vw;
+  left: 5.33vw;
+  position: absolute;
+  top: 0;
+  width: 89.33vw;
+}
+
+.campagne-hyundai .text-wrapper-20 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  margin-top: -0.15vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .text-wrapper-21 {
+  align-self: stretch;
+  color: var(--primary-blue);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: relative;
+  text-align: center;
+}
+
+.campagne-hyundai .text-wrapper-22 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 2.5vw;
+  font-weight: 700;
+  left: 4.74vw;
+  letter-spacing: 0;
+  line-height: 3.07vw;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .tabel-prijzen {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 0.37vw;
+  height: 24.11vw;
+  left: 0;
+  position: absolute;
+  top: 6.35vw;
+}
+
+.campagne-hyundai .aantal-maanden {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 12.55vw;
+}
+
+.campagne-hyundai .titel-11 {
+  background-color: var(--primary-blue);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 6.82vw;
+  margin-left: -0.05vw;
+  margin-top: -0.05vw;
+  overflow: hidden;
+  position: relative;
+  width: 12.6vw;
+}
+
+.campagne-hyundai .bill-montly-3 {
+  color: var(--white);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 1.67vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  top: 1.67vw;
+  width: 9.53vw;
+}
+
+.campagne-hyundai .onderdelen-3 {
+  background-color: var(--light-blue);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  flex: 1;
+  flex-grow: 1;
+  margin-bottom: -0.05vw;
+  margin-left: -0.05vw;
+  overflow: hidden;
+  position: relative;
+  width: 12.6vw;
+}
+
+.campagne-hyundai .separators-58 {
+  height: 0.06vw;
+  position: relative;
+  width: 9.69vw;
+}
+
+.campagne-hyundai .div-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.campagne-hyundai .titel-12 {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 6.61vw;
+  position: relative;
+  width: 12.5vw;
+}
+
+.campagne-hyundai .titel-13 {
+  color: var(--text-color-tabel);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 1.56vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  text-align: center;
+  top: 2.24vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .onderdelen-4 {
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--text-grey);
+  border-radius: 0.52vw;
+  height: 16.98vw;
+  position: relative;
+  width: 12.5vw;
+}
+
+.campagne-hyundai .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.06vw;
+  left: 1.41vw;
+  position: relative;
+  top: 2.5vw;
+}
+
+.campagne-hyundai .titel-14 {
+  color: var(--text-color-tabel);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 0.52vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  text-align: center;
+  top: 2.24vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .button-3 {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-blue);
+  border-radius: 0.36vw;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 1.46vw;
+  left: 10.57vw;
+  overflow: hidden;
+  padding: 1.77vw 1.3vw;
+  position: absolute;
+  top: 33.75vw;
+}
+
+.campagne-hyundai .FOOTER {
+  background-color: transparent;
+  height: 3.85vw;
+  left: 4.43vw;
+  position: absolute;
+  top: 380.36vw;
+  width: 91.3vw;
+}
+
+.campagne-hyundai .bekijk-de-privacy {
+  color: var(--text-grey);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  left: 30.63vw;
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 2.6vw;
+  width: 29.95vw;
+}
+
+.campagne-hyundai .line {
+  height: 0.05vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -0.05vw;
+  width: 91.2vw;
+}
+
+.campagne-hyundai .slider-indicator-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4.35vw;
+  height: 2.13vw;
+  left: 30.13vw;
+  position: absolute;
+  top: 852.8vw;
+  width: 40vw;
+}
+
+.campagne-hyundai .element-3 {
+  background-color: var(--primary-blue);
+  border-radius: 10.89vw;
+  height: 2.18vw;
+  position: relative;
+  width: 17.14vw;
+}
+
+.campagne-hyundai .element-4 {
+  background-color: var(--text-grey);
+  border-radius: 10.89vw;
+  height: 2.18vw;
+  position: relative;
+  width: 7.07vw;
+}
+
+.campagne-hyundai .SECTION-prijzentabel {
+  height: 199.73vw;
+  left: 5.33vw;
+  position: absolute;
+  top: 1281.07vw;
+  width: 90.4vw;
+}
+
+.campagne-hyundai .text-wrapper-23 {
+  color: var(--primary-blue);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 11.2vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 67.47vw;
+}
+
+.campagne-hyundai .tabel-prijzen-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 1.9vw;
+  height: 123.47vw;
+  left: 0;
+  position: absolute;
+  top: 32.53vw;
+  width: 89.87vw;
+}
+
+.campagne-hyundai .aantal-maanden-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 1.9vw;
+  position: relative;
+  width: 64.27vw;
+}
+
+.campagne-hyundai .titel-15 {
+  background-image: url(../../../static/img/rectangle-2.png);
+  background-size: 100% 100%;
+  height: 34.4vw;
+  position: relative;
+  width: 64vw;
+}
+
+.campagne-hyundai .bill-montly-4 {
+  color: var(--white);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 8.53vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  top: 8.8vw;
+  width: 48.8vw;
+}
+
+.campagne-hyundai .overlap-group-wrapper {
+  background-color: var(--light-blue);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 64vw;
+}
+
+.campagne-hyundai .overlap-group-5 {
+  background-image: url(../../../static/img/rectangle-3.png);
+  background-size: 100% 100%;
+  height: 87.2vw;
+}
+
+.campagne-hyundai .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.42vw;
+  left: 6.93vw;
+  position: relative;
+  top: 14.13vw;
+}
+
+.campagne-hyundai .profile-groups-2 {
+  color: var(--text-color-tabel);
+  font-family: var(--tabel-regular-font-family);
+  font-size: var(--tabel-regular-font-size);
+  font-style: var(--tabel-regular-font-style);
+  font-weight: var(--tabel-regular-font-weight);
+  letter-spacing: var(--tabel-regular-letter-spacing);
+  line-height: var(--tabel-regular-line-height);
+  margin-top: -0.27vw;
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .separators-59 {
+  height: 0.31vw;
+  position: relative;
+  width: 49.6vw;
+}
+
+.campagne-hyundai .aantal-km {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.67vw;
+  margin-right: -40.3vw;
+  position: relative;
+}
+
+.campagne-hyundai .titel-16 {
+  height: 33.87vw;
+  position: relative;
+  width: 64vw;
+}
+
+.campagne-hyundai .overlap-group-6 {
+  height: 33.87vw;
+  position: relative;
+  width: 50.13vw;
+}
+
+.campagne-hyundai .base-11 {
+  height: 33.87vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28.53vw;
+}
+
+.campagne-hyundai .titel-17 {
+  color: var(--text-color-tabel);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 8vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  text-align: center;
+  top: 11.47vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .onderdelen-5 {
+  height: 86.93vw;
+  position: relative;
+  width: 64vw;
+}
+
+.campagne-hyundai .overlap-4 {
+  height: 86.93vw;
+  position: relative;
+  width: 56.8vw;
+}
+
+.campagne-hyundai .base-12 {
+  height: 86.93vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28.53vw;
+}
+
+.campagne-hyundai .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.42vw;
+  left: 7.2vw;
+  position: absolute;
+  top: 12.8vw;
+}
+
+.campagne-hyundai .separators-60 {
+  height: 0.31vw;
+  position: relative;
+  width: 21.27vw;
+}
+
+.campagne-hyundai .maandbedrag {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.67vw;
+  margin-right: -106.19vw;
+  position: relative;
+}
+
+.campagne-hyundai .base-13 {
+  height: 33.87vw;
+  left: 1149.07vw;
+  position: absolute;
+  top: -472.8vw;
+  width: 64vw;
+}
+
+.campagne-hyundai .titel-18 {
+  color: var(--text-color-tabel);
+  font-family: var(--title-bold-font-family);
+  font-size: var(--title-bold-font-size);
+  font-style: var(--title-bold-font-style);
+  font-weight: var(--title-bold-font-weight);
+  left: 2.67vw;
+  letter-spacing: var(--title-bold-letter-spacing);
+  line-height: var(--title-bold-line-height);
+  position: absolute;
+  text-align: center;
+  top: 11.47vw;
+  white-space: nowrap;
+}
+
+.campagne-hyundai .base-14 {
+  height: 86.93vw;
+  left: 1149.07vw;
+  position: absolute;
+  top: -509.33vw;
+  width: 64vw;
+}
+
+.campagne-hyundai .separators-61 {
+  height: 0.53vw;
+  margin-right: -1141.77vw;
+  margin-top: -509.78vw;
+  position: relative;
+  width: 49.6vw;
+}
+
+.campagne-hyundai .separators-62 {
+  height: 0.27vw;
+  margin-right: -1141.77vw;
+  margin-top: -491.48vw;
+  position: relative;
+  width: 49.6vw;
+}
+
+.campagne-hyundai .separators-63 {
+  height: 0.27vw;
+  margin-right: -1141.77vw;
+  margin-top: -473.45vw;
+  position: relative;
+  width: 49.6vw;
+}
+
+.campagne-hyundai .button-4 {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-blue);
+  border-radius: 1.87vw;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 7.47vw;
+  left: 1.07vw;
+  overflow: hidden;
+  padding: 9.07vw 6.67vw;
+  position: absolute;
+  top: 172.8vw;
+}
+
+.campagne-hyundai .footer {
+  background-color: transparent;
+  height: 38.93vw;
+  left: 0;
+  position: absolute;
+  top: 1502.4vw;
+  width: 100.53vw;
+}
+
+.campagne-hyundai .bekijk-de-privacy-2 {
+  color: var(--text-grey);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  left: 33.6vw;
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 13.33vw;
+  width: 32.8vw;
+}
+
+.campagne-hyundai .line-2 {
+  height: 0.27vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -0.27vw;
+  width: 100vw;
+}
+
+.campagne-hyundai .overlap-5 {
+  height: 206.93vw;
+  left: 0;
+  position: absolute;
+  top: 50.13vw;
+  width: 101.07vw;
+}
+
+.campagne-hyundai .SECTION-header-2 {
+  height: 206.93vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 101.07vw;
+}
+
+.campagne-hyundai .overlap-6 {
+  height: 107.73vw;
+  left: 0;
+  position: absolute;
+  top: 79.2vw;
+  width: 100vw;
+}
+
+.campagne-hyundai .groot-beeld-slider-2 {
+  background-image: url(../../../static/img/auto-beeld.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58.13vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+.campagne-hyundai .CTA-balk-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.2vw;
+  box-shadow: var(--shadow-a);
+  display: flex;
+  flex-direction: column;
+  gap: 5.33vw;
+  justify-content: center;
+  left: 5.33vw;
+  overflow: hidden;
+  padding: 5.6vw 6.4vw;
+  position: absolute;
+  top: 51.73vw;
+  width: 90.67vw;
+}
+
+.campagne-hyundai .private-lease-nu-2 {
+  color: var(--primary-blue);
+  font-family: var(--body-bold-font-family);
+  font-size: var(--body-bold-font-size);
+  font-style: var(--body-bold-font-style);
+  font-weight: var(--body-bold-font-weight);
+  letter-spacing: var(--body-bold-letter-spacing);
+  line-height: var(--body-bold-line-height);
+  margin-top: -0.27vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.campagne-hyundai .button-5 {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-blue);
+  border-radius: 1.41vw;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.63vw;
+  overflow: hidden;
+  padding: 6.84vw 5.03vw;
+  position: relative;
+}
+
+.campagne-hyundai .text-wrapper-24 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 5.44vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.4vw;
+  position: relative;
+  width: fit-content;
+}
+
+.campagne-hyundai .arrow-4 {
+  height: 2.62vw;
+  position: relative;
+  width: 4.83vw;
+}
+
+.campagne-hyundai .hoofd-titel-tekst-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.6vw;
+  left: 5.33vw;
+  position: absolute;
+  top: 0;
+}
+
+.campagne-hyundai .nieuw-wrapper {
+  align-items: center;
+  background-color: var(--light-grey);
+  border-radius: 8.38vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.9vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0.76vw 4.19vw;
+  position: relative;
+}
+
+.campagne-hyundai .nieuw-2 {
+  color: var(--dark-grey);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 3.04vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 6.11vw;
+  margin-top: -0.19vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.61vw;
+  position: relative;
+}
+
+.campagne-hyundai .de-vernieuwde-2 {
+  flex: 0 0 auto;
+  position: relative;
+  width: 70.33vw;
+}
+
+.campagne-hyundai .text-wrapper-25 {
+  color: var(--primary-blue);
+  font-family: "Hyundai Sans Head Office-Bold", Helvetica;
+  font-size: 6.21vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 10.96vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.campagne-hyundai .profiteer-nu-van-een-2 {
+  color: var(--black);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  left: 5.33vw;
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  position: absolute;
+  top: 50.4vw;
+  width: 89.33vw;
+}
+
+.campagne-hyundai .text-wrapper-26 {
+  color: var(--text-grey);
+  font-family: var(--label-bold-font-family);
+  font-size: var(--label-bold-font-size);
+  font-style: var(--label-bold-font-style);
+  font-weight: var(--label-bold-font-weight);
+  left: 5.33vw;
+  letter-spacing: var(--label-bold-letter-spacing);
+  line-height: var(--label-bold-line-height);
+  position: absolute;
+  top: 194.13vw;
+  width: 89.33vw;
+}
+
+.campagne-hyundai .navigatie-slider-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 7.06vw;
+  left: 78.93vw;
+  position: absolute;
+  top: 123.73vw;
+}
+
+.campagne-hyundai .arrow-5 {
+  height: 4.1vw;
+  margin-bottom: -0.29vw;
+  margin-left: -0.58vw;
+  margin-top: -0.29vw;
+  position: relative;
+  width: 4.1vw;
+}
+
+.campagne-hyundai .arrow-6 {
+  height: 4.1vw;
+  margin-bottom: -0.29vw;
+  margin-right: -0.58vw;
+  margin-top: -0.29vw;
+  position: relative;
+  width: 4.1vw;
+}
+
+.campagne-hyundai .ontdek-meer-2 {
+  color: var(--white);
+  font-family: "Hyundai Sans Head Office-Medium", Helvetica;
+  font-size: 3.47vw;
+  font-weight: 500;
+  left: 5.33vw;
+  letter-spacing: 1.32vw;
+  line-height: normal;
+  position: absolute;
+  top: 123.2vw;
+}
